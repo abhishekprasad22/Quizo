@@ -13,29 +13,33 @@
    git clone https://github.com/abhishekprasad22/quizo.git
    cd quizo
    ```
+2. Make a Postgres database using the queries in the file location:
+    ```bash
+   server/src/db/schema.sql
+   ```
 
-2. Navigate to the server directory and install dependencies:
+3. Navigate to the client directory and install dependencies:
    ```bash
    cd client
    npm install
    ```
-3. Start client frontend server:
+4. Start client frontend server:
    ```bash
    npm run dev
    ```
 
-4. Navigate to the client directory and install dependencies:
+5. Navigate to the server directory and install dependencies:
    ```bash
-   cd client
+   cd server
    npm install
    ```
 
-5. Start the development server:
+6. Start the backend server:
    ```bash
    npm run dev
    ```
 
-6. Open your browser and navigate to `http://localhost:3000`.
+7. Open your browser and navigate to `http://localhost:3000`.
 
 ## API Documentation
 
