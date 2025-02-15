@@ -1,5 +1,10 @@
 # Quizo
 
+## Demo Video
+
+Watch the demo video [![image](https://github.com/user-attachments/assets/43abef9e-da02-46b8-8d22-ca2782b15e5d)](https://youtu.be/6jHIkgYddY0)
+
+
 ## Project Setup
 
 ### Prerequisites
